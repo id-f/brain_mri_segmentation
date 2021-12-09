@@ -1,6 +1,6 @@
 # brain_mri_segmentation
 
-## "submit_segmodel_brainMRI.ipynb"
+## submit_segmodel_brainMRI.ipynb
 ipynb file created by Google collaboratory, which is the source code of creating the file "unet_brain_mri_seg.hdf5".
 
 ## Other files
